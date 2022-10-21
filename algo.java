@@ -26,7 +26,6 @@ public class Algo{
         }
         System.out.println(k);
     
-      
         
         
         }
